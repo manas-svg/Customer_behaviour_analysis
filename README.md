@@ -37,10 +37,7 @@ The project follows the full lifecycle:
 ✔️ Final Insights + Presentation Storyboard
 🎥 Reference Video
 
-I built this project by following this excellent guide:
-
-🔗 YouTube Tutorial: Customer Trends Data Analysis (Python + SQL + Power BI)
-https://www.youtube.com/watch?v=5PrZvPeUw60&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=3
+rv5M_FRHUlGA5rtUf_&index=3
 
 🛠️ Tools & Technologies
 Tool	Purpose
